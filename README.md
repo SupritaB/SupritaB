@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suprita 
-- 👀 I’m a recent MSBA graduate
+- 👀 I’m a recent MSBA graduate interested in exploring Data and drawing insights.
 -- I am here to save and showcase my learnings
 
 <!---
