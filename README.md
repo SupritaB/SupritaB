@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suprita 
 - 👀 I’m a MSBA graduate interested in exploring Data and drawing insights.
--- I am here to save and showcase my learnings
+-- Here I wil be documenting my learnings in form of projects
 
 <!---
 SupritaB/SupritaB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
